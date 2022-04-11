@@ -1,0 +1,28 @@
+C:\Users\irada\Desktop\PM-42\labs\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\irada\Desktop\PM-42\labs\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\irada\Desktop\PM-42\labs\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\irada\Desktop\PM-42\labs\Calculator\Calculator\bin\Debug\AnalaizerClass.dll
+C:\Users\irada\Desktop\PM-42\labs\Calculator\Calculator\bin\Debug\CalcClass.dll
+C:\Users\irada\Desktop\PM-42\labs\Calculator\Calculator\bin\Debug\AnalaizerClass.pdb
+C:\Users\irada\Desktop\PM-42\labs\Calculator\Calculator\bin\Debug\CalcClass.pdb
+C:\Users\irada\Desktop\PM-42\labs\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\irada\Desktop\PM-42\labs\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\irada\Desktop\PM-42\labs\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\irada\Desktop\PM-42\labs\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\irada\Desktop\PM-42\labs\Calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\irada\Desktop\PM-42\labs\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\irada\Desktop\PM-42\labs\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Desktop\8 сем\PRPP\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Desktop\8 сем\PRPP\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Desktop\8 сем\PRPP\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Desktop\8 сем\PRPP\Calculator\Calculator\bin\Debug\AnalaizerClass.dll
+D:\Desktop\8 сем\PRPP\Calculator\Calculator\bin\Debug\CalcClass.dll
+D:\Desktop\8 сем\PRPP\Calculator\Calculator\bin\Debug\AnalaizerClass.pdb
+D:\Desktop\8 сем\PRPP\Calculator\Calculator\bin\Debug\CalcClass.pdb
+D:\Desktop\8 сем\PRPP\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Desktop\8 сем\PRPP\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Desktop\8 сем\PRPP\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Desktop\8 сем\PRPP\Calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+D:\Desktop\8 сем\PRPP\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Desktop\8 сем\PRPP\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Desktop\8 сем\PRPP\Calculator\Calculator\obj\Debug\Calculator.FormCalculator.resources

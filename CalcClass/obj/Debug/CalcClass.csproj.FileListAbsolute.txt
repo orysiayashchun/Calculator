@@ -1,0 +1,6 @@
+C:\Users\irada\Desktop\PM-42\labs\Calculator\CalcClass\bin\Debug\CalcClass.dll
+C:\Users\irada\Desktop\PM-42\labs\Calculator\CalcClass\bin\Debug\CalcClass.pdb
+C:\Users\irada\Desktop\PM-42\labs\Calculator\CalcClass\obj\Debug\CalcClass.csprojAssemblyReference.cache
+C:\Users\irada\Desktop\PM-42\labs\Calculator\CalcClass\obj\Debug\CalcClass.csproj.CoreCompileInputs.cache
+C:\Users\irada\Desktop\PM-42\labs\Calculator\CalcClass\obj\Debug\CalcClass.dll
+C:\Users\irada\Desktop\PM-42\labs\Calculator\CalcClass\obj\Debug\CalcClass.pdb

@@ -1,0 +1,9 @@
+C:\Users\irada\Desktop\PM-42\labs\Calculator\AnalaizerClass\bin\Debug\AnalaizerClass.dll
+C:\Users\irada\Desktop\PM-42\labs\Calculator\AnalaizerClass\bin\Debug\AnalaizerClass.pdb
+C:\Users\irada\Desktop\PM-42\labs\Calculator\AnalaizerClass\bin\Debug\CalcClass.dll
+C:\Users\irada\Desktop\PM-42\labs\Calculator\AnalaizerClass\bin\Debug\CalcClass.pdb
+C:\Users\irada\Desktop\PM-42\labs\Calculator\AnalaizerClass\obj\Debug\AnalaizerClass.csprojAssemblyReference.cache
+C:\Users\irada\Desktop\PM-42\labs\Calculator\AnalaizerClass\obj\Debug\AnalaizerClass.csproj.CoreCompileInputs.cache
+C:\Users\irada\Desktop\PM-42\labs\Calculator\AnalaizerClass\obj\Debug\AnalaizerClass.csproj.CopyComplete
+C:\Users\irada\Desktop\PM-42\labs\Calculator\AnalaizerClass\obj\Debug\AnalaizerClass.dll
+C:\Users\irada\Desktop\PM-42\labs\Calculator\AnalaizerClass\obj\Debug\AnalaizerClass.pdb
