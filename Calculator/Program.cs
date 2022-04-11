@@ -20,7 +20,7 @@ namespace Calculator
             }
             else
             {
-                //Application.Run(new FormCalculator(args));
+                Application.Run(new FormCalculator(args));
             }
         }
     }
