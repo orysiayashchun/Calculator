@@ -26,3 +26,18 @@ D:\Desktop\8 сем\PRPP\Calculator\Calculator\obj\Debug\Calculator.csproj.CopyC
 D:\Desktop\8 сем\PRPP\Calculator\Calculator\obj\Debug\Calculator.exe
 D:\Desktop\8 сем\PRPP\Calculator\Calculator\obj\Debug\Calculator.pdb
 D:\Desktop\8 сем\PRPP\Calculator\Calculator\obj\Debug\Calculator.FormCalculator.resources
+D:\calc\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\calc\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\calc\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\calc\Calculator\Calculator\bin\Debug\AnalaizerClass.dll
+D:\calc\Calculator\Calculator\bin\Debug\CalcClass.dll
+D:\calc\Calculator\Calculator\bin\Debug\AnalaizerClass.pdb
+D:\calc\Calculator\Calculator\bin\Debug\CalcClass.pdb
+D:\calc\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\calc\Calculator\Calculator\obj\Debug\Calculator.FormCalculator.resources
+D:\calc\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\calc\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\calc\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\calc\Calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+D:\calc\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\calc\Calculator\Calculator\obj\Debug\Calculator.pdb
