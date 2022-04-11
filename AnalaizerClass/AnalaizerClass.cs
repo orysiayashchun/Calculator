@@ -29,6 +29,14 @@ namespace AnalaizerClass
             symbIsLetter();//чи коректна операція
             bracketsCheck();//перевірка дужок
         }
+        public string Estimate()
+        {
+            CheckCurrency();
+            string formatExpr = Format();//розбили на елементи вхідну стрічку і перевірили на правильність
+            string polishExpr = PolishInverseExpr(formatExpr);//становлення порядку операцій
+            string result = RunEstimate(polishExpr);
+            return result;
+        }
 
         //перевірка дужок
         private void bracketsCheck()
@@ -400,6 +408,101 @@ namespace AnalaizerClass
 
             return formatExpr;
         }
+        private string PolishInverseExpr(string formatExpr)
+        {
+            string[] el = formatExpr.Split(' ');
 
+            string output = string.Empty;
+            Stack<string> operStack = new Stack<string>();
+
+            for (int i = 0; i < el.Length; i++)
+            {
+                string element = el[i];
+
+                if (isAnumb(element))
+                {
+                    output += element + " ";
+                    continue;
+                }
+
+                if (isAnOper(element))
+                {
+                    if (element[0] == '(')
+                        operStack.Push(element);
+                    else if (element[0] == ')')
+                    {
+                        string s = operStack.Pop();
+                        while (s[0] != '(')
+                        {
+                            output += s + " ";
+                            s = operStack.Pop();
+                        }
+                    }
+                    else
+                    {
+                        if (operStack.Count > 0)
+                        {
+                            if (orderOfOperations(element) <= orderOfOperations(operStack.Peek()))
+                            {
+                                output += operStack.Pop() + " ";
+                            }
+                        }
+
+                        operStack.Push(element);
+                    }
+                }
+            }
+
+            while (operStack.Count > 0)
+            {
+                output += operStack.Pop() + " ";
+            }
+
+            if (output.EndsWith(" "))
+            {
+                output = output.Remove(output.Length - 1);
+            }
+
+            if (output.StartsWith(" "))
+            {
+                output = output.Remove(0, 1);
+            }
+
+            return output;
+        }
+
+        private string RunEstimate(string polishInverseExpr)
+        {
+            string[] elements = polishInverseExpr.Split(' ');
+
+            long result = 0;
+            Stack<long> temp = new Stack<long>();
+
+            for (int i = 0; i < elements.Length; i++)
+            {
+                string element = elements[i];
+
+                if (isAnumb(element))
+                {
+                    temp.Push(Int64.Parse(element));
+                }
+                else if (isAnOper(element))
+                {
+                    long a = temp.Pop();
+                    long b = temp.Pop();
+
+                    switch (element[0])
+                    {
+                        case '+': result = CalcClass.CalcClass.Add(b, a); break;
+                        case '-': result = CalcClass.CalcClass.Sub(b, a); break;
+                        case '*': result = CalcClass.CalcClass.Mult(b, a); break;
+                        case '/': result = CalcClass.CalcClass.Div(b, a); break;
+                        case 'm': result = CalcClass.CalcClass.Mod(b, a); break;
+                    }
+                    temp.Push(result);
+                }
+            }
+            return temp.Peek().ToString();
+        }
     }
 }
